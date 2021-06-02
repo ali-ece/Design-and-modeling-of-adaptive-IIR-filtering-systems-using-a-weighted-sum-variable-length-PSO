@@ -1,7 +1,9 @@
 # Design-and-modeling-of-adaptive-IIR-filtering-systems-using-a-weighted-sum-variable-length-PSO
 
 In this repository, all the data of the article called "Design and modeling of adaptive IIR filtering systems using a weighted sum - variable length particle swarm optimization" has been attached.
+
 Data including specifications, access links, all source code of implementations and simulations are provided along with all extracted results.
+
 Note: Given the volume of implementations and outputs, the source codes are reported based on Example 4 of the article, which can be easily extended to other examples.
 If used, the article link should be cited below.
 
